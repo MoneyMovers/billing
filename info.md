@@ -1,5 +1,10 @@
 # API Method info
 This method is used to check payment params before sending it to **pay** method.
+
+## Flow
+
+![Info Method](/method_info.png)
+
 ## Benefits of Method
 With this method agent can check :
 1. If given account is valid in remote system.
